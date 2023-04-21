@@ -1,3 +1,4 @@
-first_name = "Javiera"
-last_name = "Iturrieta"
-print(first_name + " " + last_name)
+empty_tupla = ()
+filled_tupla = (1, "Javiera", 8.2)
+
+print(empty_tupla, filled_tupla)
